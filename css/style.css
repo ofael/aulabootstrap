@@ -1,0 +1,18 @@
+.navbar{
+    background-color: #FDFEFE;
+}
+
+.container-fluid .navbar-brand figure img{
+    max-width: 200px;
+    max-width: 100px;
+}
+
+#quemsomos{
+    background-color: #2C3E50;
+    max-width: 100%;
+    min-height: 700px;
+}
+
+#quemsomos .container-fluid h3{
+    text-align: center;
+}
