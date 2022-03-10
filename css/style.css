@@ -1,5 +1,5 @@
 .navbar{
-    background-color: #FDFEFE;
+    background-color: #7DCEA0;
 }
 
 .container-fluid .navbar-brand figure img{
@@ -8,11 +8,29 @@
 }
 
 #quemsomos{
-    background-color: #2C3E50;
+    background-color: #E8F8F5;
     max-width: 100%;
-    min-height: 700px;
+    min-height: 300px;
 }
 
 #quemsomos .container-fluid h3{
+    padding-top: 20px;
     text-align: center;
+}
+
+#jogos{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.container-fluid ul li figure img{
+    padding-top: 20px;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: flex-end;
+}
+
+#jogos2{
+    background-color: #E8F8F5;
 }
